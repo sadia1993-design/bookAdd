@@ -1,0 +1,45 @@
+.blog-box {
+    position: relative;
+  }
+  
+  .blog-box .blog-img-box img {
+    border-radius: 5px;
+    box-shadow: 0 7px 12px rgba(0, 0, 0, 0.08);
+  }
+  
+  .single-blog {
+    padding-top: 25px;
+    position: relative;
+  }
+
+  .bg-light .single-blog {
+    padding: 40px;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .blog-content ul {
+    margin-bottom: 10px;
+  }
+  
+  .blog-content  h3 {
+    transition: all .3s ease 0s;
+    margin: 15px 0px;
+  }
+  .blog-content p {
+    margin: 20px 0px;
+  }
+  
+  .blog-content:hover  h3 {
+    color: #21c87a;
+  }
+  
+  .blog-content h6 span {
+    display: inline-block;
+    padding-left: 10px;
+  }
+  
+  .blog-content h6 span:after {
+    display: none;
+  }
+  
