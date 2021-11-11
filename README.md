@@ -1,3 +1,5 @@
+![wordpress-logo](./wp-admin/images/wordpress-logo.png)
+<br>
 # **Installation: Famous 5-minute install**  
 1. Unzip the package in an empty directory and upload everything.
 2. Open <ins>wp-admin/install.php</ins> in your browser. It will take you through the process to set up a wp-config.php file with your database connection details.  
