@@ -19,4 +19,13 @@
 # **System Requirements**
 - PHP version 5.6.20 or higher.
 - MySQL version 5.0 or higher.
+
+<br>
+
+## **Recommendations**
+- PHP version 7.4 or higher.
+- MySQL version 5.6 or higher.
+- The mod_rewrite Apache module.
+- HTTPS support.
+- A link to wordpress.org on your site.
   
